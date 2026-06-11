@@ -5,10 +5,10 @@ A full-stack SaaS-style gym management system with a separate **user portal** an
 **Live:** https://www.minimalistgyms.com &nbsp;|&nbsp; **Admin Demo:** https://admin.minimalistgyms.com/
 
 ---
-## Architecture
-backend → minimalistgyms-backend [https://github.com/Saikat-github/gym-2-backend-mern]
-admin panel → minimalistgyms-admin [https://github.com/Saikat-github/gym-2-admin-mern]  
-user panel → minimalistgyms-client [https://github.com/Saikat-github/gym-2-frontend-mern]
+## Code Architecture
+backend → https://github.com/Saikat-github/gym-2-backend-mern
+admin panel → https://github.com/Saikat-github/gym-2-admin-mern
+user panel → https://github.com/Saikat-github/gym-2-frontend-mern
 
 ---
 
