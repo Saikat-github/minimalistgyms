@@ -65,4 +65,6 @@ A full-stack SaaS-style gym management system with a separate **user portal** an
 
 <img width="1342" height="584" alt="image" src="https://github.com/user-attachments/assets/12a4ee2a-da4f-4a75-997e-4515b2251902" />
 
+<img width="1343" height="580" alt="image" src="https://github.com/user-attachments/assets/82624594-0855-43cf-b982-d8076ef89c17" />
+<img width="1343" height="580" alt="image" src="https://github.com/user-attachments/assets/6c429017-0236-44d2-8a75-edb50d0fa316" />
 
