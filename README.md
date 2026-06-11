@@ -63,7 +63,6 @@ A full-stack SaaS-style gym management system with a separate **user portal** an
 
 <img width="1348" height="587" alt="minimalistgyms-pic-1" src="https://github.com/user-attachments/assets/9caf00e4-977e-414c-bf42-daa2980155f7" />
 
-<img width="1348" height="587" alt="minimalistgyms-pic-1" src="https://github.com/user-attachments/assets/37aa2646-5216-4efb-9294-f333078d2746" />
-<img width="1348" height="587" alt="minimalistgyms-pic-1" src="https://github.com/user-attachments/assets/688bd586-14df-44b3-bdac-f55ebf317c28" />
-<img width="1348" height="587" alt="minimalistgyms-pic-1" src="https://github.com/user-attachments/assets/0dd57cf7-3ad2-4580-ba1f-b6382cc99c0d" />
+<img width="1342" height="584" alt="image" src="https://github.com/user-attachments/assets/12a4ee2a-da4f-4a75-997e-4515b2251902" />
+
 
