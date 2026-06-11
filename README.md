@@ -2,7 +2,7 @@
 
 A full-stack SaaS-style gym management system with a separate **user portal** and **admin panel** — built solo, deployed for a real client. Handles everything from online admission and Razorpay payments to RBAC-based admin management and automated member notifications.
 
-**Live:** [your-link-here] &nbsp;|&nbsp; **Admin Demo:** [your-link-here]
+**Live:** https://www.minimalistgyms.com &nbsp;|&nbsp; **Admin Demo:** https://admin.minimalistgyms.com/
 
 ---
 
