@@ -6,9 +6,9 @@ A full-stack SaaS-style gym management system with a separate **user portal** an
 
 ---
 ## Code Architecture
-backend → https://github.com/Saikat-github/gym-2-backend-mern
-admin panel → https://github.com/Saikat-github/gym-2-admin-mern
-user panel → https://github.com/Saikat-github/gym-2-frontend-mern
+- backend → https://github.com/Saikat-github/gym-2-backend-mern
+- admin panel → https://github.com/Saikat-github/gym-2-admin-mern
+- user panel → https://github.com/Saikat-github/gym-2-frontend-mern
 
 ---
 
